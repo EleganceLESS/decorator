@@ -4,6 +4,6 @@ public class Espresso extends Beverage{
     }
 
     public double cost(){
-        return 0.89;
+        return 1.99 + super.cost();
     }
  }
