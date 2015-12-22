@@ -4,6 +4,6 @@ public class HouseBlend extends Beverage{
     }
 
     public double cost(){
-        return 0.89 + super.cost();
+        return 0.89;
     }
  }
